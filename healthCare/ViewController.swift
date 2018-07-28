@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  healthCare
-//  mamomamomamo-!!
+// 
 //  Created by 末利　花 on 2018/07/28.
 //  Copyright © 2018年 末利　花. All rights reserved.
 //
